@@ -1,0 +1,27 @@
+/*背景样式*/
+.gameBackDiv {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	height: 500px;
+	background-color: gray;
+}
+
+/*结点样式*/
+.snakNote {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	background-color: green;
+
+}
+
+/*食物样式*/
+.foodNote {
+	position: absolute;
+	width: 10px;
+	height: 10px;
+	background-color: red;
+
+}
